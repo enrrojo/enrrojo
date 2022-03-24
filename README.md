@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @enrrojo and i´m currently studying informatics engineering.
+- Welcome to my repository, here i´ll save all of my progams.
